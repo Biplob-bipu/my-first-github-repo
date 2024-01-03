@@ -1,0 +1,54 @@
+*h1{
+    color:green;
+}
+.header_area{
+    background-color: brown;
+    padding:15px;
+
+}
+.header{
+    text-align: center;
+    
+}
+/**.header h1{
+    color: green;
+}**/
+.header p{
+    font-size: 20px;
+    text-align: justify;
+   
+}
+.main_content_area{
+    margin-top: 20px;
+    padding: 20px;
+}
+.content_left{
+    background-color: blueviolet;
+    padding:10px;
+    float:left
+}
+.content_left h3{
+    font-style: italic;
+    color: darkgoldenrod;
+    font-size: 30px;
+}
+.content_left p{
+    font-style: bold;
+    font-size: 15px;
+    width: 500px;
+}
+.content_right{
+    padding:10px;
+    background-color: chocolate;
+    float: right;
+    width: 500px;
+}
+.content_right h3{
+    font-style: italic;
+    font-size: 30px;
+    color: darkgoldenrod;
+}
+.content_right p{
+    font-style: bold;
+    font-size: 15px;
+}
