@@ -25,7 +25,8 @@
 .content_left{
     background-color: blueviolet;
     padding:10px;
-    float:left
+    float:left;
+    width:500px;
 }
 .content_left h3{
     font-style: italic;
